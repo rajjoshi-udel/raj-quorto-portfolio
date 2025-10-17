@@ -9,6 +9,7 @@ execute:
   message: false
 ---
 
+
 # Introduction
 
 This document demonstrates how to create visualizations using matplotlib in Quarto.
